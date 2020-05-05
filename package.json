@@ -1,0 +1,20 @@
+{
+  "name": "WSP-Formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git add -A && git commit -m \"Agregando cambios\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngenioInnato/WSP-FormularioReferidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngenioInnato/WSP-FormularioReferidos/issues"
+  },
+  "homepage": "https://github.com/IngenioInnato/WSP-FormularioReferidos#readme"
+}
